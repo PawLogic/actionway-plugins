@@ -1,0 +1,17 @@
+{
+  "name": "pawlogic",
+  "owner": {
+    "name": "PawLogic",
+    "url": "https://actionway.ai"
+  },
+  "description": "Actionway plugins for Claude Code: Remote MCP capabilities, account access, and reusable agent workflows.",
+  "plugins": [
+    {
+      "name": "actionway",
+      "source": "./plugins/actionway",
+      "description": "Discover, inspect, and run Actionway capabilities: media generation shortcuts, tool search over the full capability registry, asynchronous jobs, and signed-in account queries. Bundles the Actionway remote MCP connection and the Actionway agent skill.",
+      "category": "Productivity",
+      "tags": ["mcp", "media", "image", "video", "audio", "live-data"]
+    }
+  ]
+}

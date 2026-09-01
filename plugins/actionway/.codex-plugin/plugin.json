@@ -1,0 +1,45 @@
+{
+  "name": "actionway",
+  "description": "Discover, inspect, and run Actionway capabilities from Codex: media generation, tool search over the full registry, asynchronous jobs, and account queries.",
+  "version": "0.1.0",
+  "author": {
+    "name": "PawLogic",
+    "url": "https://actionway.ai"
+  },
+  "homepage": "https://actionway.ai/get-started",
+  "repository": "https://github.com/PawLogic/actionway-plugins",
+  "keywords": [
+    "actionway",
+    "mcp",
+    "media",
+    "image",
+    "video",
+    "audio",
+    "live-data"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Actionway",
+    "shortDescription": "Generate media and fetch live data through one account",
+    "longDescription": "Search, inspect, and call Actionway capabilities from Codex: image and video generation, image editing, music, voiceover, transcription, lip-sync, media download, web search, and live platform data. Input schemas, variants, and USD prices come from the live capability registry, not from bundled tables.",
+    "developerName": "PawLogic",
+    "category": "Creativity",
+    "capabilities": [
+      "Creative Tools",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://actionway.ai/get-started",
+    "privacyPolicyURL": "https://actionway.ai/privacy",
+    "termsOfServiceURL": "https://actionway.ai/terms",
+    "defaultPrompt": [
+      "Use Actionway to generate an image from this prompt.",
+      "Check my Actionway balance.",
+      "Find an Actionway capability for this task and quote the price first."
+    ],
+    "brandColor": "#55A83E",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Actionway"
+  short_description: "Discover and run Actionway capabilities"
+  default_prompt: "Use $actionway to discover the right capability, inspect its current schema and price, and complete this task through the connected Actionway MCP server."

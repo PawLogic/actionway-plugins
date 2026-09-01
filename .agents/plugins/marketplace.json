@@ -1,0 +1,20 @@
+{
+  "name": "pawlogic",
+  "interface": {
+    "displayName": "PawLogic"
+  },
+  "plugins": [
+    {
+      "name": "actionway",
+      "source": {
+        "source": "local",
+        "path": "./plugins/actionway"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creativity"
+    }
+  ]
+}

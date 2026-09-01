@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "actionway": {
+      "type": "http",
+      "url": "https://mcp.actionway.ai/mcp"
+    }
+  }
+}
