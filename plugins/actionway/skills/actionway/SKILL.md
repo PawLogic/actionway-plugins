@@ -2,7 +2,7 @@
 name: actionway
 description: Generate videos, images, logos, music, voiceovers, and sound effects; transcribe audio, read text and tables out of images and PDFs, lip-sync avatars, transfer motion onto a character, cut a subject out of a photo, build a 3D model from photos, detect shots and analyze beats for editing; download videos from TikTok, Douyin, Instagram, YouTube, and Bilibili; run specialized search such as reverse-image, stock-media, business-contact, maps, places, restaurants, and local-business search; fetch and read web pages; look up stock quotes, tickers, and company financials; fetch live platform data (social stats across TikTok, Douyin, Instagram, Reddit, LinkedIn, Weibo and Xiaohongshu, weather, markets, public datasets). Use this skill whenever the user wants to create, edit, or download media; needs a specialized external capability that the host does not provide; explicitly asks for Actionway or a named Actionway provider; continues a pending job_ref or call_ref; or asks about Actionway invitations, balance, usage, or transactions. Do not use it for ordinary web search when the host has built-in web search; use the host search first, and never silently fall back to Actionway `web.search`.
 metadata:
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # Actionway
