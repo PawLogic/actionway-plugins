@@ -17,6 +17,7 @@ Generate or transform a video from a prompt and optional media references.
 | HappyHorse Image to Video (`happyhorse-i2v`) | default: $0.30 per second | Use HappyHorse Image to Video when it matches the requested quality, provider, or model preference. |
 | HappyHorse Reference to Video (`happyhorse-r2v`) | default: $0.30 per second | Use HappyHorse Reference to Video when it matches the requested quality, provider, or model preference. |
 | HappyHorse Video Edit (`happyhorse-video-edit`) | default: $0.30 per second | Use HappyHorse Video Edit when it matches the requested quality, provider, or model preference. |
+| Seedance 2.5 Flash (`seedance-2-5-flash`) | 480p: $0.132 per second; 720p: $0.262 per second | Generate a 4–30 second 480p or 720p video from a prompt. Optionally set image_url as the first frame and keep its aspect ratio. Not for: Video, audio or mixed reference inputs, multiple images, end frames, and automatic duration.. |
 | Seedance 2.5 (`seedance-2-5`) | 480p: $0.20 per second; 720p: $0.40 per second | Use Seedance 2.5 when it matches the requested quality, provider, or model preference. |
 | Seedance 2.0 (`seedance-2-0`) | 480p: $0.14 per second; 720p: $0.30 per second; 1080p: $0.72 per second; 4k: $1.44 per second | Use Seedance 2.0 when it matches the requested quality, provider, or model preference. |
 | Seedance 2.0 Fast (`seedance-2-0-fast`) | 480p: $0.11 per second; 720p: $0.24 per second | Use Seedance 2.0 Fast when it matches the requested quality, provider, or model preference. |
