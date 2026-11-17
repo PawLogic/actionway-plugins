@@ -2,6 +2,10 @@
 
 All notable changes to the Actionway plugin marketplace are documented here. Releases follow [Semantic Versioning](https://semver.org/).
 
+## 0.1.4 - 2026-11-17
+
+- Remove the retired Banana 2 variant from the image generation skill reference.
+
 ## 0.1.3 - 2026-11-16
 
 - Add MiniMax H3 Image and Highspeed, Seedance 2.5 Flash, and Suno V6 to the media generation references with prices and supported inputs.

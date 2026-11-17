@@ -11,7 +11,6 @@ Generate or edit images and animated GIFs from a prompt with optional references
 | Variant | Indicative price | When to use |
 |---|---|---|
 | Banana Pro (`banana-pro`) | $0.30 | Use Banana Pro when it matches the requested quality, provider, or model preference. |
-| Banana 2 (`banana-2`) | $0.20 | Use Banana 2 when it matches the requested quality, provider, or model preference. |
 | Seedream (`seedream`) | $0.10 | Use Seedream when it matches the requested quality, provider, or model preference. |
 | Seedream 5 Lite (`seedream-5-lte`) | $0.10 | Use Seedream 5 Lite when it matches the requested quality, provider, or model preference. |
 | GPT Image 2 (`gpt-image-2`) | $0.15 | Use GPT Image 2 when it matches the requested quality, provider, or model preference. |
